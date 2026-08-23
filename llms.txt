@@ -1,2 +1,25 @@
 # Wallaceburg Plumbing
-HVAC services in Ontario.
+
+> Wallaceburg Plumbing is a local HVAC company serving Wallaceburg, Chatham-Kent, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 627-4183  |  Email: contact@wallaceburgplumbing.ca  |  Website: https://wallaceburgplumbing.ca
+
+## Key pages
+
+- [Home](https://wallaceburgplumbing.ca/): Wallaceburg Plumbing homepage with service overview and FAQ
+- [About](https://wallaceburgplumbing.ca/about/): About the company and service area
+- [Contact](https://wallaceburgplumbing.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://wallaceburgplumbing.ca/services/water-heaters/): Water Heaters in Wallaceburg, Ontario
+- [Drain Cleaning](https://wallaceburgplumbing.ca/services/drain-cleaning/): Drain Cleaning in Wallaceburg, Ontario
+- [Repiping](https://wallaceburgplumbing.ca/services/repiping/): Repiping in Wallaceburg, Ontario
+- [Fixtures & Toilets](https://wallaceburgplumbing.ca/services/fixtures-toilets/): Fixtures & Toilets in Wallaceburg, Ontario
+- [Leak Detection & Repair](https://wallaceburgplumbing.ca/services/leak-detection/): Leak Detection & Repair in Wallaceburg, Ontario
+- [Sump Pumps & Backwater](https://wallaceburgplumbing.ca/services/sump-pumps/): Sump Pumps & Backwater in Wallaceburg, Ontario
+- [Water Softeners & Filtration](https://wallaceburgplumbing.ca/services/water-softeners/): Water Softeners & Filtration in Wallaceburg, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Wallaceburg are answered on the homepage.
